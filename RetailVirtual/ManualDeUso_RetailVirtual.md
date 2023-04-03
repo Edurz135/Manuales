@@ -1,13 +1,10 @@
-﻿<img src="imgs/Universidad_de_Lima_logo.png" align="right" width="40px"/>
+﻿<img src="imgs/Universidad_de_Lima_logo.png" align="right" width="80px"/>
 
 # MANUAL DE USO
 
 > Manual de uso para el aplicativo de retail virtual orientado al aprendizaje de conceptos claves sobre un punto de venta
 
 <p align="center">Universidad de Lima - Marzo de 2023</p>
-
-
-<br />
 
 ## TABLA DE CONTENIDOS
 
@@ -58,24 +55,20 @@ Una vez que la página se haya cargado completamente, aparecerá un mensaje de b
 
 <img src="imgs/fig1.PNG"/>
 <br />
-<br />
 
 Mejora sugerida: Una vez que se hace clic en el botón "Empezar", el usuario se encontrará con un personaje ubicado en la puerta del establecimiento con el que puede interactuar. Al hacer clic en él, el personaje proporcionará una breve explicación sobre el propósito de la aplicación y las actividades disponibles para experimentar. Además, ofrecerá información fundamental para contextualizar al usuario, proporcionando algunos conceptos clave.
 
 <img src="imgs/fig2.PNG"/>
-<br />
 <br />
 
 A lo largo del establecimiento se encuentran diferentes puntos de interés que se identifican mediante globos azules que contienen una “*i*” en el centro.
 
 <img src="imgs/fig3.PNG"/>
 <br />
-<br />
 
 Al hacer clic en uno de estos globos, se desplegará un panel con información sobre los diferentes conceptos que se buscan reforzar en este recorrido virtual.
 
 <img src="imgs/fig4.PNG"/>
-<br />
 <br />
 
 De la misma manera, dentro del entorno virtual podemos encontrar más puntos interactivos, los cuales se detallan a continuación.
@@ -93,16 +86,13 @@ Al presionar la tecla "Esc" o la tecla “P”, se abrirá automáticamente un m
 
 <img src="imgs/fig13.PNG"/>
 <br />
-<br />
 
 En lo que respecta a las opciones del usuario, estas permiten modular la intensidad con las que se van a reproducir las voces que brindan información y los sonidos característicos de estos establecimientos. Además, también permite aumentar o disminuir el volumen de la música ambiental con la que se cuenta.
 
 <img src="imgs/fig14.PNG"/>
 <br />
-<br />
 
 Por parte del mapa del Retail Virtual, mostrará la posición del usuario representada por un ícono de ubicación rojo. Además, el croquis señalará las categorías de cada pasillo y al dar click en una de ellas, el jugador automáticamente aparecerá en aquella ubicación.
 
 <img src="imgs/fig15.PNG"/>
-<br />
 <br />
