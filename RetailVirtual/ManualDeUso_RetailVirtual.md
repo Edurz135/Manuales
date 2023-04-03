@@ -53,46 +53,57 @@ El aplicativo Retail Virtual es una herramienta diseñada para facilitar el apre
 ## 3.2 <a id="amb"></a> Descripción del ambiente
 Una vez que la página se haya cargado completamente, aparecerá un mensaje de bienvenida con un botón en el centro (“Empezar”) que nos permitirá acceder a la experiencia.
 
+<p align="center">
 <img src="imgs/fig1.PNG"/>
+</p>
 <br />
 
 Mejora sugerida: Una vez que se hace clic en el botón "Empezar", el usuario se encontrará con un personaje ubicado en la puerta del establecimiento con el que puede interactuar. Al hacer clic en él, el personaje proporcionará una breve explicación sobre el propósito de la aplicación y las actividades disponibles para experimentar. Además, ofrecerá información fundamental para contextualizar al usuario, proporcionando algunos conceptos clave.
 
+<p align="center">
 <img src="imgs/fig2.PNG"/>
+</p>
 <br />
 
 A lo largo del establecimiento se encuentran diferentes puntos de interés que se identifican mediante globos azules que contienen una “*i*” en el centro.
 
+<p align="center">
 <img src="imgs/fig3.PNG"/>
+</p>
 <br />
 
 Al hacer clic en uno de estos globos, se desplegará un panel con información sobre los diferentes conceptos que se buscan reforzar en este recorrido virtual.
 
+<p align="center">
 <img src="imgs/fig4.PNG"/>
+</p>
 <br />
 
 De la misma manera, dentro del entorno virtual podemos encontrar más puntos interactivos, los cuales se detallan a continuación.
 
-|||
-|-|-|
 |<img src="imgs/fig5.PNG"/>|<img src="imgs/fig6.PNG"/>|
 |<img src="imgs/fig7.PNG"/>|<img src="imgs/fig8.PNG"/>|
 |<img src="imgs/fig9.PNG"/>|<img src="imgs/fig10.PNG"/>|
 |<img src="imgs/fig11.PNG"/>|<img src="imgs/fig12.PNG"/>|
-|||
 
 
 Al presionar la tecla "Esc" o la tecla “P”, se abrirá automáticamente un menú con dos funciones. Se encontrará tanto el botón “Ver Mapa” y “Opciones” para personalizar la experiencia del usuario.
 
+<p align="center">
 <img src="imgs/fig13.PNG"/>
+</p>
 <br />
 
 En lo que respecta a las opciones del usuario, estas permiten modular la intensidad con las que se van a reproducir las voces que brindan información y los sonidos característicos de estos establecimientos. Además, también permite aumentar o disminuir el volumen de la música ambiental con la que se cuenta.
 
+<p align="center">
 <img src="imgs/fig14.PNG"/>
+</p>
 <br />
 
 Por parte del mapa del Retail Virtual, mostrará la posición del usuario representada por un ícono de ubicación rojo. Además, el croquis señalará las categorías de cada pasillo y al dar click en una de ellas, el jugador automáticamente aparecerá en aquella ubicación.
 
+<p align="center">
 <img src="imgs/fig15.PNG"/>
+</p>
 <br />
