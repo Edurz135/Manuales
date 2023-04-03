@@ -81,11 +81,12 @@ Al hacer clic en uno de estos globos, se desplegará un panel con información s
 
 De la misma manera, dentro del entorno virtual podemos encontrar más puntos interactivos, los cuales se detallan a continuación.
 
+|||
+|-|-|
 |<img src="imgs/fig5.PNG"/>|<img src="imgs/fig6.PNG"/>|
 |<img src="imgs/fig7.PNG"/>|<img src="imgs/fig8.PNG"/>|
 |<img src="imgs/fig9.PNG"/>|<img src="imgs/fig10.PNG"/>|
 |<img src="imgs/fig11.PNG"/>|<img src="imgs/fig12.PNG"/>|
-
 
 Al presionar la tecla "Esc" o la tecla “P”, se abrirá automáticamente un menú con dos funciones. Se encontrará tanto el botón “Ver Mapa” y “Opciones” para personalizar la experiencia del usuario.
 
